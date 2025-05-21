@@ -111,4 +111,5 @@
 // console.log(findMax([3, 5, 7, 2, 8, 1]));
 
 console.log(1);
-console.log("kod yangilandi")
+console.log("kod yangilandi");
+console.log("kodda o'zgarish sodir bo'ldi");
